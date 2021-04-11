@@ -1,0 +1,893 @@
+[
+  {
+    "Id": 8274,
+    "Name": "Basic Industries",
+    "Author": "Randolf",
+    "Category": "consequat",
+    "Language": "Oriya",
+    "Date": "2021-03-23T00:00:00",
+    "ISBN": "35693"
+  },
+  {
+    "Id": 1987,
+    "Name": "Energy",
+    "Author": "Cordell",
+    "Category": "in",
+    "Language": "Mongolian",
+    "Date": "2021-01-01T00:00:00",
+    "ISBN": "12005"
+  },
+  {
+    "Id": 6572,
+    "Name": "Consumer Services",
+    "Author": "Dani",
+    "Category": "eleifend",
+    "Language": "New Zealand",
+    "Date": "2020-10-20T00:00:00",
+    "ISBN": "54376"
+  },
+  {
+    "Id": 4014,
+    "Name": "Consumer Services",
+    "Author": "Millie",
+    "Category": "mauris",
+    "Language": "Hungarian",
+    "Date": "2020-12-17T00:00:00",
+    "ISBN": "88992"
+  },
+  {
+    "Id": 5473,
+    "Name": "Health Care",
+    "Author": "Belia",
+    "Category": "varius",
+    "Language": "Tsonga",
+    "Date": "2021-03-21T00:00:00",
+    "ISBN": "84877"
+  },
+  {
+    "Id": 4880,
+    "Name": "n/a",
+    "Author": "Philis",
+    "Category": "rutrum",
+    "Language": "Oriya",
+    "Date": "2020-07-18T00:00:00",
+    "ISBN": "53623"
+  },
+  {
+    "Id": 8643,
+    "Name": "Health Care",
+    "Author": "Ingelbert",
+    "Category": "integer",
+    "Language": "Irish Gaelic",
+    "Date": "2020-07-14T00:00:00",
+    "ISBN": "48380"
+  },
+  {
+    "Id": 6991,
+    "Name": "Health Care",
+    "Author": "Vonny",
+    "Category": "cras",
+    "Language": "Oriya",
+    "Date": "2020-04-24T00:00:00",
+    "ISBN": "16983"
+  },
+  {
+    "Id": 3099,
+    "Name": "Capital Goods",
+    "Author": "Verla",
+    "Category": "tortor",
+    "Language": "Guaraní",
+    "Date": "2020-11-05T00:00:00",
+    "ISBN": "50349"
+  },
+  {
+    "Id": 8770,
+    "Name": "Technology",
+    "Author": "Maegan",
+    "Category": "nulla",
+    "Language": "Montenegrin",
+    "Date": "2020-06-21T00:00:00",
+    "ISBN": "82502"
+  },
+  {
+    "Id": 3057,
+    "Name": "Capital Goods",
+    "Author": "Goddart",
+    "Category": "at",
+    "Language": "Icelandic",
+    "Date": "2020-09-28T00:00:00",
+    "ISBN": "21559"
+  },
+  {
+    "Id": 5913,
+    "Name": "Energy",
+    "Author": "Dody",
+    "Category": "sit",
+    "Language": "Kazakh",
+    "Date": "2020-10-13T00:00:00",
+    "ISBN": "68929"
+  },
+  {
+    "Id": 2133,
+    "Name": "Consumer Services",
+    "Author": "Hillyer",
+    "Category": "platea",
+    "Language": "Romanian",
+    "Date": "2020-06-16T00:00:00",
+    "ISBN": "15548"
+  },
+  {
+    "Id": 1997,
+    "Name": "n/a",
+    "Author": "Vanda",
+    "Category": "dis",
+    "Language": "Irish Gaelic",
+    "Date": "2020-06-13T00:00:00",
+    "ISBN": "37226"
+  },
+  {
+    "Id": 3182,
+    "Name": "Consumer Services",
+    "Author": "Zackariah",
+    "Category": "cras",
+    "Language": "Indonesian",
+    "Date": "2020-09-12T00:00:00",
+    "ISBN": "95408"
+  },
+  {
+    "Id": 9726,
+    "Name": "Consumer Durables",
+    "Author": "Nellie",
+    "Category": "duis",
+    "Language": "Zulu",
+    "Date": "2021-01-06T00:00:00",
+    "ISBN": "62348"
+  },
+  {
+    "Id": 4527,
+    "Name": "Miscellaneous",
+    "Author": "Nike",
+    "Category": "adipiscing",
+    "Language": "Papiamento",
+    "Date": "2020-11-19T00:00:00",
+    "ISBN": "87953"
+  },
+  {
+    "Id": 1567,
+    "Name": "Finance",
+    "Author": "Thedric",
+    "Category": "interdum",
+    "Language": "Polish",
+    "Date": "2020-05-10T00:00:00",
+    "ISBN": "80203"
+  },
+  {
+    "Id": 3694,
+    "Name": "Basic Industries",
+    "Author": "Holly",
+    "Category": "elementum",
+    "Language": "Khmer",
+    "Date": "2020-09-01T00:00:00",
+    "ISBN": "47477"
+  },
+  {
+    "Id": 8623,
+    "Name": "Consumer Non-Durables",
+    "Author": "Mollee",
+    "Category": "sit",
+    "Language": "Swahili",
+    "Date": "2020-04-30T00:00:00",
+    "ISBN": "69712"
+  },
+  {
+    "Id": 1687,
+    "Name": "Consumer Non-Durables",
+    "Author": "Lothario",
+    "Category": "accumsan",
+    "Language": "Albanian",
+    "Date": "2021-03-10T00:00:00",
+    "ISBN": "48493"
+  },
+  {
+    "Id": 6476,
+    "Name": "Consumer Services",
+    "Author": "Christel",
+    "Category": "sit",
+    "Language": "Mongolian",
+    "Date": "2020-05-02T00:00:00",
+    "ISBN": "27164"
+  },
+  {
+    "Id": 2611,
+    "Name": "n/a",
+    "Author": "Hilliard",
+    "Category": "in",
+    "Language": "Nepali",
+    "Date": "2021-02-22T00:00:00",
+    "ISBN": "87367"
+  },
+  {
+    "Id": 6912,
+    "Name": "Basic Industries",
+    "Author": "Mallorie",
+    "Category": "enim",
+    "Language": "Malayalam",
+    "Date": "2020-08-29T00:00:00",
+    "ISBN": "14985"
+  },
+  {
+    "Id": 8235,
+    "Name": "Technology",
+    "Author": "Gayle",
+    "Category": "ornare",
+    "Language": "Danish",
+    "Date": "2020-11-01T00:00:00",
+    "ISBN": "54047"
+  },
+  {
+    "Id": 1049,
+    "Name": "Public Utilities",
+    "Author": "Grete",
+    "Category": "elementum",
+    "Language": "Tswana",
+    "Date": "2020-09-08T00:00:00",
+    "ISBN": "58661"
+  },
+  {
+    "Id": 8762,
+    "Name": "Consumer Services",
+    "Author": "Gray",
+    "Category": "urna",
+    "Language": "Chinese",
+    "Date": "2020-09-16T00:00:00",
+    "ISBN": "75589"
+  },
+  {
+    "Id": 1404,
+    "Name": "Finance",
+    "Author": "Adolph",
+    "Category": "at",
+    "Language": "Burmese",
+    "Date": "2021-01-24T00:00:00",
+    "ISBN": "14318"
+  },
+  {
+    "Id": 8480,
+    "Name": "Finance",
+    "Author": "Dill",
+    "Category": "sagittis",
+    "Language": "Dari",
+    "Date": "2020-06-03T00:00:00",
+    "ISBN": "30852"
+  },
+  {
+    "Id": 6401,
+    "Name": "Health Care",
+    "Author": "Dunstan",
+    "Category": "penatibus",
+    "Language": "Thai",
+    "Date": "2020-11-28T00:00:00",
+    "ISBN": "61955"
+  },
+  {
+    "Id": 4768,
+    "Name": "Health Care",
+    "Author": "Alexandr",
+    "Category": "lacinia",
+    "Language": "Marathi",
+    "Date": "2021-02-13T00:00:00",
+    "ISBN": "61705"
+  },
+  {
+    "Id": 5054,
+    "Name": "Health Care",
+    "Author": "Alard",
+    "Category": "eros",
+    "Language": "Persian",
+    "Date": "2021-04-07T00:00:00",
+    "ISBN": "49584"
+  },
+  {
+    "Id": 9169,
+    "Name": "Consumer Services",
+    "Author": "Yance",
+    "Category": "eget",
+    "Language": "Assamese",
+    "Date": "2020-12-22T00:00:00",
+    "ISBN": "35664"
+  },
+  {
+    "Id": 1056,
+    "Name": "Energy",
+    "Author": "Egor",
+    "Category": "habitasse",
+    "Language": "Sotho",
+    "Date": "2021-02-11T00:00:00",
+    "ISBN": "89926"
+  },
+  {
+    "Id": 9667,
+    "Name": "Technology",
+    "Author": "Connor",
+    "Category": "nulla",
+    "Language": "Croatian",
+    "Date": "2020-10-11T00:00:00",
+    "ISBN": "67203"
+  },
+  {
+    "Id": 5118,
+    "Name": "Energy",
+    "Author": "Renae",
+    "Category": "tincidunt",
+    "Language": "Moldovan",
+    "Date": "2021-01-16T00:00:00",
+    "ISBN": "82803"
+  },
+  {
+    "Id": 1788,
+    "Name": "Consumer Services",
+    "Author": "Ginger",
+    "Category": "turpis",
+    "Language": "Dzongkha",
+    "Date": "2020-10-22T00:00:00",
+    "ISBN": "10177"
+  },
+  {
+    "Id": 4252,
+    "Name": "n/a",
+    "Author": "Debi",
+    "Category": "parturient",
+    "Language": "Haitian Creole",
+    "Date": "2020-05-20T00:00:00",
+    "ISBN": "55530"
+  },
+  {
+    "Id": 7317,
+    "Name": "Consumer Services",
+    "Author": "Bev",
+    "Category": "sodales",
+    "Language": "Finnish",
+    "Date": "2020-08-29T00:00:00",
+    "ISBN": "47255"
+  },
+  {
+    "Id": 6755,
+    "Name": "Health Care",
+    "Author": "Austine",
+    "Category": "nisi",
+    "Language": "Gujarati",
+    "Date": "2020-11-19T00:00:00",
+    "ISBN": "37138"
+  },
+  {
+    "Id": 2807,
+    "Name": "Consumer Services",
+    "Author": "Claudie",
+    "Category": "in",
+    "Language": "Kurdish",
+    "Date": "2020-04-19T00:00:00",
+    "ISBN": "70715"
+  },
+  {
+    "Id": 6125,
+    "Name": "Finance",
+    "Author": "Fawn",
+    "Category": "nulla",
+    "Language": "Marathi",
+    "Date": "2021-03-09T00:00:00",
+    "ISBN": "30201"
+  },
+  {
+    "Id": 8955,
+    "Name": "n/a",
+    "Author": "Kriste",
+    "Category": "non",
+    "Language": "New Zealand",
+    "Date": "2020-07-28T00:00:00",
+    "ISBN": "45227"
+  },
+  {
+    "Id": 6401,
+    "Name": "n/a",
+    "Author": "Flossy",
+    "Category": "cursus",
+    "Language": "Quechua",
+    "Date": "2021-02-18T00:00:00",
+    "ISBN": "80627"
+  },
+  {
+    "Id": 6132,
+    "Name": "Finance",
+    "Author": "Jessamine",
+    "Category": "nunc",
+    "Language": "Mongolian",
+    "Date": "2020-06-22T00:00:00",
+    "ISBN": "56006"
+  },
+  {
+    "Id": 4363,
+    "Name": "Consumer Durables",
+    "Author": "Standford",
+    "Category": "sapien",
+    "Language": "Japanese",
+    "Date": "2020-10-16T00:00:00",
+    "ISBN": "70203"
+  },
+  {
+    "Id": 2422,
+    "Name": "Finance",
+    "Author": "Moyna",
+    "Category": "hac",
+    "Language": "Māori",
+    "Date": "2020-05-27T00:00:00",
+    "ISBN": "56909"
+  },
+  {
+    "Id": 5274,
+    "Name": "Finance",
+    "Author": "Holmes",
+    "Category": "donec",
+    "Language": "Zulu",
+    "Date": "2021-04-10T00:00:00",
+    "ISBN": "59122"
+  },
+  {
+    "Id": 8308,
+    "Name": "Finance",
+    "Author": "Ettore",
+    "Category": "dapibus",
+    "Language": "Kazakh",
+    "Date": "2020-12-26T00:00:00",
+    "ISBN": "72555"
+  },
+  {
+    "Id": 6690,
+    "Name": "n/a",
+    "Author": "Catherine",
+    "Category": "varius",
+    "Language": "Tswana",
+    "Date": "2020-11-18T00:00:00",
+    "ISBN": "47598"
+  },
+  {
+    "Id": 7854,
+    "Name": "Finance",
+    "Author": "Mariele",
+    "Category": "ornare",
+    "Language": "Zulu",
+    "Date": "2021-01-11T00:00:00",
+    "ISBN": "40569"
+  },
+  {
+    "Id": 9459,
+    "Name": "Basic Industries",
+    "Author": "Graham",
+    "Category": "sapien",
+    "Language": "French",
+    "Date": "2020-05-05T00:00:00",
+    "ISBN": "36555"
+  },
+  {
+    "Id": 2046,
+    "Name": "Capital Goods",
+    "Author": "Odell",
+    "Category": "cum",
+    "Language": "Punjabi",
+    "Date": "2021-02-11T00:00:00",
+    "ISBN": "36157"
+  },
+  {
+    "Id": 3226,
+    "Name": "n/a",
+    "Author": "Margaux",
+    "Category": "enim",
+    "Language": "Estonian",
+    "Date": "2020-09-08T00:00:00",
+    "ISBN": "14886"
+  },
+  {
+    "Id": 4534,
+    "Name": "n/a",
+    "Author": "Naoma",
+    "Category": "justo",
+    "Language": "Tajik",
+    "Date": "2020-04-11T00:00:00",
+    "ISBN": "62083"
+  },
+  {
+    "Id": 5233,
+    "Name": "n/a",
+    "Author": "Weylin",
+    "Category": "neque",
+    "Language": "Kyrgyz",
+    "Date": "2020-04-12T00:00:00",
+    "ISBN": "21211"
+  },
+  {
+    "Id": 1482,
+    "Name": "n/a",
+    "Author": "Tiler",
+    "Category": "duis",
+    "Language": "Telugu",
+    "Date": "2021-01-12T00:00:00",
+    "ISBN": "14216"
+  },
+  {
+    "Id": 9302,
+    "Name": "Energy",
+    "Author": "Calli",
+    "Category": "at",
+    "Language": "Punjabi",
+    "Date": "2020-11-20T00:00:00",
+    "ISBN": "40075"
+  },
+  {
+    "Id": 7297,
+    "Name": "Public Utilities",
+    "Author": "Humbert",
+    "Category": "dolor",
+    "Language": "West Frisian",
+    "Date": "2020-05-15T00:00:00",
+    "ISBN": "94321"
+  },
+  {
+    "Id": 9573,
+    "Name": "Finance",
+    "Author": "Claus",
+    "Category": "duis",
+    "Language": "French",
+    "Date": "2020-06-29T00:00:00",
+    "ISBN": "14291"
+  },
+  {
+    "Id": 3373,
+    "Name": "n/a",
+    "Author": "Valma",
+    "Category": "sed",
+    "Language": "Danish",
+    "Date": "2020-11-15T00:00:00",
+    "ISBN": "77314"
+  },
+  {
+    "Id": 1159,
+    "Name": "Finance",
+    "Author": "Bobbe",
+    "Category": "donec",
+    "Language": "Danish",
+    "Date": "2020-09-08T00:00:00",
+    "ISBN": "94645"
+  },
+  {
+    "Id": 9192,
+    "Name": "Consumer Services",
+    "Author": "Celeste",
+    "Category": "curae",
+    "Language": "Sotho",
+    "Date": "2021-03-31T00:00:00",
+    "ISBN": "94374"
+  },
+  {
+    "Id": 1330,
+    "Name": "Energy",
+    "Author": "Bessie",
+    "Category": "morbi",
+    "Language": "New Zealand",
+    "Date": "2020-05-02T00:00:00",
+    "ISBN": "34019"
+  },
+  {
+    "Id": 6397,
+    "Name": "Finance",
+    "Author": "Nicoli",
+    "Category": "vel",
+    "Language": "Romanian",
+    "Date": "2021-04-03T00:00:00",
+    "ISBN": "57282"
+  },
+  {
+    "Id": 7987,
+    "Name": "n/a",
+    "Author": "Cleopatra",
+    "Category": "massa",
+    "Language": "Luxembourgish",
+    "Date": "2020-05-16T00:00:00",
+    "ISBN": "87561"
+  },
+  {
+    "Id": 4528,
+    "Name": "Consumer Services",
+    "Author": "Gayler",
+    "Category": "amet",
+    "Language": "Fijian",
+    "Date": "2020-10-26T00:00:00",
+    "ISBN": "34330"
+  },
+  {
+    "Id": 5040,
+    "Name": "Finance",
+    "Author": "Bartholemy",
+    "Category": "in",
+    "Language": "Dzongkha",
+    "Date": "2021-02-25T00:00:00",
+    "ISBN": "93520"
+  },
+  {
+    "Id": 3665,
+    "Name": "Health Care",
+    "Author": "Justina",
+    "Category": "vel",
+    "Language": "Fijian",
+    "Date": "2020-08-01T00:00:00",
+    "ISBN": "60225"
+  },
+  {
+    "Id": 7650,
+    "Name": "Public Utilities",
+    "Author": "Sander",
+    "Category": "ante",
+    "Language": "Bislama",
+    "Date": "2020-09-08T00:00:00",
+    "ISBN": "44718"
+  },
+  {
+    "Id": 7946,
+    "Name": "Finance",
+    "Author": "Mohandis",
+    "Category": "id",
+    "Language": "Spanish",
+    "Date": "2020-11-17T00:00:00",
+    "ISBN": "50395"
+  },
+  {
+    "Id": 4789,
+    "Name": "Miscellaneous",
+    "Author": "Jule",
+    "Category": "sapien",
+    "Language": "Northern Sotho",
+    "Date": "2021-02-19T00:00:00",
+    "ISBN": "64638"
+  },
+  {
+    "Id": 8079,
+    "Name": "Consumer Services",
+    "Author": "Rurik",
+    "Category": "non",
+    "Language": "Amharic",
+    "Date": "2021-03-11T00:00:00",
+    "ISBN": "18650"
+  },
+  {
+    "Id": 5573,
+    "Name": "Technology",
+    "Author": "Vinny",
+    "Category": "vel",
+    "Language": "Hungarian",
+    "Date": "2020-06-30T00:00:00",
+    "ISBN": "81968"
+  },
+  {
+    "Id": 4417,
+    "Name": "Consumer Services",
+    "Author": "Bili",
+    "Category": "posuere",
+    "Language": "Irish Gaelic",
+    "Date": "2020-08-04T00:00:00",
+    "ISBN": "28934"
+  },
+  {
+    "Id": 5007,
+    "Name": "Technology",
+    "Author": "Sydney",
+    "Category": "integer",
+    "Language": "Burmese",
+    "Date": "2021-01-31T00:00:00",
+    "ISBN": "53144"
+  },
+  {
+    "Id": 3044,
+    "Name": "Capital Goods",
+    "Author": "Cherey",
+    "Category": "in",
+    "Language": "Chinese",
+    "Date": "2020-12-01T00:00:00",
+    "ISBN": "22551"
+  },
+  {
+    "Id": 3875,
+    "Name": "Technology",
+    "Author": "Doria",
+    "Category": "elementum",
+    "Language": "Zulu",
+    "Date": "2020-10-21T00:00:00",
+    "ISBN": "83831"
+  },
+  {
+    "Id": 1992,
+    "Name": "n/a",
+    "Author": "Parry",
+    "Category": "diam",
+    "Language": "Māori",
+    "Date": "2021-01-21T00:00:00",
+    "ISBN": "10988"
+  },
+  {
+    "Id": 3983,
+    "Name": "Transportation",
+    "Author": "Rad",
+    "Category": "sem",
+    "Language": "Kashmiri",
+    "Date": "2020-04-19T00:00:00",
+    "ISBN": "47064"
+  },
+  {
+    "Id": 3973,
+    "Name": "Health Care",
+    "Author": "Sibylla",
+    "Category": "sit",
+    "Language": "Tamil",
+    "Date": "2021-03-22T00:00:00",
+    "ISBN": "61259"
+  },
+  {
+    "Id": 3398,
+    "Name": "Health Care",
+    "Author": "Heather",
+    "Category": "at",
+    "Language": "Tajik",
+    "Date": "2020-06-07T00:00:00",
+    "ISBN": "39069"
+  },
+  {
+    "Id": 7696,
+    "Name": "Public Utilities",
+    "Author": "Beverlee",
+    "Category": "scelerisque",
+    "Language": "Indonesian",
+    "Date": "2020-07-23T00:00:00",
+    "ISBN": "46752"
+  },
+  {
+    "Id": 2333,
+    "Name": "Consumer Services",
+    "Author": "Vickie",
+    "Category": "vel",
+    "Language": "French",
+    "Date": "2021-02-12T00:00:00",
+    "ISBN": "98152"
+  },
+  {
+    "Id": 7151,
+    "Name": "Miscellaneous",
+    "Author": "Bentlee",
+    "Category": "consequat",
+    "Language": "Belarusian",
+    "Date": "2021-03-22T00:00:00",
+    "ISBN": "40887"
+  },
+  {
+    "Id": 1391,
+    "Name": "Consumer Services",
+    "Author": "Luce",
+    "Category": "nec",
+    "Language": "Amharic",
+    "Date": "2021-01-26T00:00:00",
+    "ISBN": "73784"
+  },
+  {
+    "Id": 3847,
+    "Name": "Public Utilities",
+    "Author": "Adamo",
+    "Category": "mi",
+    "Language": "Georgian",
+    "Date": "2021-04-02T00:00:00",
+    "ISBN": "83138"
+  },
+  {
+    "Id": 2224,
+    "Name": "Finance",
+    "Author": "Karita",
+    "Category": "duis",
+    "Language": "Haitian Creole",
+    "Date": "2021-03-14T00:00:00",
+    "ISBN": "79006"
+  },
+  {
+    "Id": 3470,
+    "Name": "n/a",
+    "Author": "Ariana",
+    "Category": "primis",
+    "Language": "English",
+    "Date": "2020-07-28T00:00:00",
+    "ISBN": "36957"
+  },
+  {
+    "Id": 4171,
+    "Name": "n/a",
+    "Author": "Irita",
+    "Category": "donec",
+    "Language": "Sotho",
+    "Date": "2020-11-24T00:00:00",
+    "ISBN": "83289"
+  },
+  {
+    "Id": 7622,
+    "Name": "Consumer Services",
+    "Author": "Marlin",
+    "Category": "volutpat",
+    "Language": "Danish",
+    "Date": "2020-04-28T00:00:00",
+    "ISBN": "52224"
+  },
+  {
+    "Id": 7149,
+    "Name": "Consumer Durables",
+    "Author": "Tobe",
+    "Category": "vivamus",
+    "Language": "French",
+    "Date": "2020-11-30T00:00:00",
+    "ISBN": "76715"
+  },
+  {
+    "Id": 2064,
+    "Name": "Capital Goods",
+    "Author": "Zenia",
+    "Category": "eu",
+    "Language": "Tetum",
+    "Date": "2021-01-25T00:00:00",
+    "ISBN": "18458"
+  },
+  {
+    "Id": 4390,
+    "Name": "Health Care",
+    "Author": "Colin",
+    "Category": "fusce",
+    "Language": "Burmese",
+    "Date": "2020-10-26T00:00:00",
+    "ISBN": "52719"
+  },
+  {
+    "Id": 9547,
+    "Name": "Public Utilities",
+    "Author": "Ray",
+    "Category": "vivamus",
+    "Language": "Burmese",
+    "Date": "2020-10-05T00:00:00",
+    "ISBN": "21678"
+  },
+  {
+    "Id": 4337,
+    "Name": "n/a",
+    "Author": "Rafaelita",
+    "Category": "sit",
+    "Language": "Montenegrin",
+    "Date": "2021-01-23T00:00:00",
+    "ISBN": "95983"
+  },
+  {
+    "Id": 2395,
+    "Name": "Capital Goods",
+    "Author": "Enrika",
+    "Category": "a",
+    "Language": "Lithuanian",
+    "Date": "2020-10-13T00:00:00",
+    "ISBN": "25018"
+  },
+  {
+    "Id": 8419,
+    "Name": "Finance",
+    "Author": "Lorant",
+    "Category": "interdum",
+    "Language": "English",
+    "Date": "2020-04-16T00:00:00",
+    "ISBN": "49188"
+  },
+  {
+    "Id": 9420,
+    "Name": "Name",
+    "Author": "Author",
+    "Category": "Category",
+    "Language": "Language",
+    "Date": "2021-02-03T00:00:00",
+    "ISBN": "ISBN"
+  }
+]

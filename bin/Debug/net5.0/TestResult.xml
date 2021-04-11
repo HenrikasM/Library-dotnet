@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Library_dotnet.dll" fullname="C:/Users/Henrikas/Desktop/Programavimas/Library_dotnet/bin/Debug/net5.0/Library_dotnet.dll" testcasecount="4" result="Passed" start-time="2021-04-11T14:47:52.5818622Z" end-time="2021-04-11T14:47:53.2917158Z" duration="0.709742" total="4" passed="4" failed="0" inconclusive="0" skipped="0" warnings="0" asserts="5" random-seed="690263503">
+  <command-line><![CDATA[C:\Users\Henrikas\Desktop\Programavimas\Library_dotnet\bin\Debug\net5.0\Library_dotnet.dll]]></command-line>
+  <filter>
+    <test>Library_dotnet.Tests.Library_Dotnet_Test</test>
+  </filter>
+  <test-suite type="Assembly" id="1005" name="Library_dotnet.dll" fullname="C:/Users/Henrikas/Desktop/Programavimas/Library_dotnet/bin/Debug/net5.0/Library_dotnet.dll" runstate="Runnable" testcasecount="4" result="Passed" start-time="2021-04-11T14:47:52.5818622Z" end-time="2021-04-11T14:47:53.2917158Z" duration="0.709742" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="5">
+    <environment framework-version="3.13.1.0" clr-version="5.0.5" os-version="Microsoft Windows 10.0.19042" platform="Win32NT" cwd="C:\Users\Henrikas\Desktop\Programavimas\Library_dotnet\bin\Debug\net5.0" machine-name="DESKTOP-0OPLGV1" user="Henrikas" user-domain="DESKTOP-0OPLGV1" culture="en-US" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="LOAD" value="System.Collections.Generic.List`1[System.String]" />
+      <setting name="WorkDirectory" value="C:\Users\Henrikas\Desktop\Programavimas\Library_dotnet\bin\Debug\net5.0" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_PID" value="15848" />
+      <property name="_APPDOMAIN" value="Library_dotnet" />
+    </properties>
+    <test-suite type="TestSuite" id="1006" name="Library_dotnet" fullname="Library_dotnet" runstate="Runnable" testcasecount="4" result="Passed" start-time="2021-04-11T14:47:52.5895905Z" end-time="2021-04-11T14:47:53.2917099Z" duration="0.702119" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="5">
+      <test-suite type="TestSuite" id="1007" name="Tests" fullname="Library_dotnet.Tests" runstate="Runnable" testcasecount="4" result="Passed" start-time="2021-04-11T14:47:52.5899405Z" end-time="2021-04-11T14:47:53.2916772Z" duration="0.701737" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="5">
+        <test-suite type="TestFixture" id="1000" name="Library_Dotnet_Test" fullname="Library_dotnet.Tests.Library_Dotnet_Test" classname="Library_dotnet.Tests.Library_Dotnet_Test" runstate="Runnable" testcasecount="4" result="Passed" start-time="2021-04-11T14:47:52.5913741Z" end-time="2021-04-11T14:47:53.2910317Z" duration="0.699658" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="5">
+          <test-case id="1001" name="TestCase1" fullname="Library_dotnet.Tests.Library_Dotnet_Test.TestCase1" methodname="TestCase1" classname="Library_dotnet.Tests.Library_Dotnet_Test" runstate="Runnable" seed="1750028838" result="Passed" start-time="2021-04-11T14:47:52.5942056Z" end-time="2021-04-11T14:47:52.9764352Z" duration="0.382362" asserts="1" />
+          <test-case id="1002" name="TestCase2" fullname="Library_dotnet.Tests.Library_Dotnet_Test.TestCase2" methodname="TestCase2" classname="Library_dotnet.Tests.Library_Dotnet_Test" runstate="Runnable" seed="1163990959" result="Passed" start-time="2021-04-11T14:47:52.9790164Z" end-time="2021-04-11T14:47:52.9893422Z" duration="0.010326" asserts="1">
+            <output><![CDATA[Book was not found
+]]></output>
+          </test-case>
+          <test-case id="1003" name="TestCase3" fullname="Library_dotnet.Tests.Library_Dotnet_Test.TestCase3" methodname="TestCase3" classname="Library_dotnet.Tests.Library_Dotnet_Test" runstate="Runnable" seed="2005634138" result="Passed" start-time="2021-04-11T14:47:52.9893967Z" end-time="2021-04-11T14:47:52.9928976Z" duration="0.003501" asserts="2">
+            <output><![CDATA[Book was not found
+Return date: 4/10/2021 12:00:00 AM - Todays date: 4/11/2021 12:00:00 AM. Return is late
+Book was successfully returned
+]]></output>
+          </test-case>
+          <test-case id="1004" name="TestCase4" fullname="Library_dotnet.Tests.Library_Dotnet_Test.TestCase4" methodname="TestCase4" classname="Library_dotnet.Tests.Library_Dotnet_Test" runstate="Runnable" seed="244274535" result="Passed" start-time="2021-04-11T14:47:52.9929175Z" end-time="2021-04-11T14:47:53.2884069Z" duration="0.295491" asserts="1">
+            <output><![CDATA[Book deleted
+]]></output>
+          </test-case>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
